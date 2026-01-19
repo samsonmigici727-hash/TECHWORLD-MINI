@@ -42,7 +42,7 @@ const config = {
     GROUP_INVITE_LINK: 'https://chat.whatsapp.com/JLr6bCrervmE6b5UaGbHzt',
     ADMIN_LIST_PATH: './admin.json',
     RCD_IMAGE_PATH: './sulabot.jpg',
-    NEWSLETTER_JID: '120363400480173280@newsletter',
+    NEWSLETTER_JID: '120363409714698622@newsletter',
     NEWSLETTER_MESSAGE_ID: '1478',
     OTP_EXPIRY: 300000,
     OWNER_NUMBER: '254111687009',
