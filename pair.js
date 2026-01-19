@@ -39,18 +39,18 @@ const config = {
     AUTO_LIKE_EMOJI: ['💋', '🍬', '🫆', '💗', '🎈', '🎉', '🥳', '❤️', '🧫', '🐭'],
     PREFIX: '.',
     MAX_RETRIES: 3,
-    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/JLr6bCrervmE6b5UaGbHzt',
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/J5RbmTG3j5p7UvBFPCABaH',
     ADMIN_LIST_PATH: './admin.json',
     RCD_IMAGE_PATH: './sulabot.jpg',
     NEWSLETTER_JID: '120363409714698622@newsletter',
     NEWSLETTER_MESSAGE_ID: '1478',
     OTP_EXPIRY: 300000,
     OWNER_NUMBER: '254111687009',
-    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k'
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbCafMZBA1f42UxcYW0D'
 };
 
-//https://whatsapp.com/channel/0029VbApvFQ2Jl84lhONkc3k
-//https://chat.whatsapp.com/JLr6bCrervmE6b5UaGbHzt
+//https://whatsapp.com/channel/0029VbCafMZBA1f42UxcYW0D
+//https://chat.whatsapp.com/J5RbmTG3j5p7UvBFPCABaH
 const octokit = new Octokit({ auth: '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' });
 const owner = 'Azrael-DeathCore';
 const repo = 'https://github.com/samsonmigici727-hash/TECHWORLD-MINI';
